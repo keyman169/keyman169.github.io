@@ -1,0 +1,32 @@
+.grid  {
+    width: 60px;
+    height: 60px;
+    background: #222;
+}
+table {
+    empty-cells:hide;
+}
+td {
+    width: 60px;
+    height: 60px;
+}
+
+#info-container {
+    float: left ;
+    clear: both;
+}
+
+#game-container {
+    float: left ;
+    clear: both;
+}
+
+#operation-container {
+    float: left ;
+    clear: both;
+}
+
+#message-container {
+    float: left ;
+    clear: both;
+}

@@ -1,7 +1,7 @@
 /**
  * Created by YanQ on 2015/4/28.
  */
-var mapDate = {
+var map = {
     normal: {
         width: 8,
         height: 8,
@@ -16,10 +16,10 @@ var mapDate = {
         width: 4,
         height: 4,
         item: [
-            1,1,1,1,
-            1,1,1,1,
-            1,1,1,1,
-            1,1,1,1
+            0,1,1,0,
+            1,2,2,1,
+            1,2,2,1,
+            0,1,1,0
         ]
     }
 };
