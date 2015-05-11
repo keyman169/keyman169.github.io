@@ -51,22 +51,22 @@ function drop(ev) {
     var sourcePosition = getPosition(source.id);
     var targetPosition = getPosition(ev.target.id);
     if ((Math.abs(sourcePosition.x - targetPosition.x) == 2) && sourcePosition.y === targetPosition.y){
-        ev.target.appendChild(document.getElementById(data));
         var ids = ev.target.id.split('-');
         ids[1] = (~~sourcePosition.x + ~~targetPosition.x)/2;
-        removeTile(ids.join("-"))
+        var middle = document.getElementById(ids.join("-"));
+        if(middle.hasChildNodes()){
+            ev.target.appendChild(document.getElementById(data));
+            middle.innerHTML = '';
+        }
     } else if ((Math.abs(sourcePosition.y - targetPosition.y) == 2) && sourcePosition.x === targetPosition.x) {
-        ev.target.appendChild(document.getElementById(data));
         var ids = ev.target.id.split('-');
         ids[2] = (~~sourcePosition.y + ~~targetPosition.y)/2;
-        removeTile(ids.join("-"))
+        var middle = document.getElementById(ids.join("-"));
+        if(middle.hasChildNodes()){
+            ev.target.appendChild(document.getElementById(data));
+            middle.innerHTML = '';
+        }
     }
-}
-
-function removeTile(tileId) {
-    //var list=document.getElementById(tileId);
-   // list.removeChild(list.childNodes[0]);
-    document.getElementById(tileId).innerHTML='';
 }
 
 function getPosition(tileId) {
