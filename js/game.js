@@ -1,2 +1,2 @@
 var grid = new Grid();
-grid.init(map.simple);
+grid.init(map.normal);
