@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="63b379c9-b591-4425-a9f5-3d7818024676" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
     </list>
     <ignored path="eatall.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -70,7 +69,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="103" selection-start="850" selection-end="850" vertical-scroll-proportion="0.4483146">
+            <state line="7" column="2" selection-start="214" selection-end="214" vertical-scroll-proportion="0.1494382">
               <folding />
             </state>
           </provider>
@@ -679,7 +678,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="103" selection-start="850" selection-end="850" vertical-scroll-proportion="0.4483146">
+        <state line="7" column="2" selection-start="214" selection-end="214" vertical-scroll-proportion="0.1494382">
           <folding />
         </state>
       </provider>
