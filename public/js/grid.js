@@ -14,7 +14,7 @@ Grid.prototype.createTile = function (exist, i, j) {
     tile.setAttribute("ondragover", "allowDrop(event)");
     if (exist > 1) {
         var tileId = "img-" + i + "-" + j;
-        tile.innerHTML = "<img src='image/tile.png' width='60' height = '60' draggable='true' ondragstart='drag(event)' id=" + tileId + "\/>";
+        tile.innerHTML = "<img src='public/image/tile.png' width='60' height = '60' draggable='true' ondragstart='drag(event)' id=" + tileId + "\/>";
     }
     return tile;
 };

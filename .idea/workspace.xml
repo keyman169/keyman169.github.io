@@ -2,19 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="63b379c9-b591-4425-a9f5-3d7818024676" name="Default" comment="">
-      <change type="DELETED" beforePath="D:\Documents\GitHub\keyman169.github.io\image\tile.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Documents\GitHub\keyman169.github.io\index.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\Documents\GitHub\keyman169.github.io\js\game.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Documents\GitHub\keyman169.github.io\js\grid.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Documents\GitHub\keyman169.github.io\js\jquery-1.7.2.min.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Documents\GitHub\keyman169.github.io\js\jquery-ui.min.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Documents\GitHub\keyman169.github.io\js\jquery.ui.touch-punch.min.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Documents\GitHub\keyman169.github.io\js\map.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Documents\GitHub\keyman169.github.io\js\tile.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Documents\GitHub\keyman169.github.io\style\main.css" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="DELETED" beforePath="D:\Documents\GitHub\keyman169.github.io\public\index.html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app.js" afterPath="$PROJECT_DIR$/app.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/grid.js" afterPath="$PROJECT_DIR$/public/js/grid.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="eatall.iws" />
@@ -25,6 +16,7 @@
     <file path="/InsertDummyDataTool.java" changelist="63b379c9-b591-4425-a9f5-3d7818024676" time="1431917974609" ignored="false" />
     <file path="/fragment.java" changelist="63b379c9-b591-4425-a9f5-3d7818024676" time="1431917964378" ignored="false" />
     <file path="D:/SVN_ROOT/Code/etc/projects_NewFeature_20150216/Dev/src/DBPopulator/src/main/java/com/toshiba/medical/dbpopulator/persistence/MetadataDAO.java" changelist="63b379c9-b591-4425-a9f5-3d7818024676" time="1431918671750" ignored="false" />
+    <file path="/grid.js" changelist="63b379c9-b591-4425-a9f5-3d7818024676" time="1431929264020" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,19 +77,55 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="app.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="app.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="16" selection-start="405" selection-end="405" vertical-scroll-proportion="0.0">
+            <state line="14" column="6" selection-start="416" selection-end="416" vertical-scroll-proportion="-0.031301484">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/public/index.html">
+      <file leaf-file-name="main.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/style/main.css">
           <provider selected="true" editor-type-id="text-editor">
             <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="game.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/js/game.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="map.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/js/map.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="grid.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/js/grid.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="19" column="30" selection-start="639" selection-end="639" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="19" selection-start="278" selection-end="278" vertical-scroll-proportion="-5.428571">
               <folding />
             </state>
           </provider>
@@ -131,6 +159,8 @@
         <option value="$PROJECT_DIR$/js/jquery-ui.min.js" />
         <option value="$PROJECT_DIR$/style/main.css" />
         <option value="$PROJECT_DIR$/4ndit3qk.dqg.txt" />
+        <option value="$PROJECT_DIR$/public/js/grid.js" />
+        <option value="$PROJECT_DIR$/app.js" />
       </list>
     </option>
   </component>
@@ -236,6 +266,42 @@
               <option name="myItemId" value="public" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="style" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="keyman169.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="keyman169.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="keyman169.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="keyman169.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
@@ -261,6 +327,9 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\YanQ\Documents\GitHub\eatall\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Documents\GitHub\keyman169.github.io" />
     </key>
   </component>
   <component name="RestClientSettings">
@@ -502,8 +571,8 @@
     <option name="totallyTimeSpent" value="38000000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-4" y="-4" width="1866" height="1088" extended-state="7" />
-    <editor active="false" />
+    <frame x="-4" y="-4" width="1866" height="1088" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -522,7 +591,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18101545" sideWeight="0.6705508" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18101545" sideWeight="0.6705508" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32944915" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="REST Client" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.35220125" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -616,16 +685,51 @@
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app.js">
+    <entry file="file://$USER_HOME$/.IntelliJIdea12/system/extLibs/nodejs-v0.10.26-src/core-modules-sources/fs.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="16" selection-start="405" selection-end="405" vertical-scroll-proportion="0.0">
+        <state line="683" column="17" selection-start="17819" selection-end="17819" vertical-scroll-proportion="0.33278418">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/index.html">
+    <entry file="file://$PROJECT_DIR$/public/style/main.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/game.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/map.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/grid.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="30" selection-start="639" selection-end="639" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="19" selection-start="278" selection-end="278" vertical-scroll-proportion="-5.428571">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="6" selection-start="416" selection-end="416" vertical-scroll-proportion="-0.031301484">
           <folding />
         </state>
       </provider>
