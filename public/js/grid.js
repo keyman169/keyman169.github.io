@@ -23,16 +23,14 @@ Grid.prototype.init = function (map) {
     var self = this;
     var table = document.getElementById("container");
     for (var j = 0; j < map.height; j++) {
-        var tr = document.createElement('tr');
+        var tr = table.insertRow(j);
         for (var i = 0; i < map.width; i++) {
-            var td = document.createElement('td');
+            var td = tr.insertCell(i);
             var exist = map.item[j * map.width + i];
             if (exist > 0) {
                 td.appendChild(this.createTile(exist, i, j));
             }
-            tr.appendChild(td);
         }
-        table.appendChild(tr);
     }
 };
 
