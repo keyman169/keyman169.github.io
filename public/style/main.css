@@ -18,7 +18,10 @@
 .tile  {
     width: 60px;
     height: 60px;
-    background: #222;
+    background-image:url('/public/image/tile.png');
+    background-repeat:no-repeat;
+    background-attachment:fixed;
+    background-position:center;
 }
 table {
     empty-cells:hide;
@@ -26,6 +29,7 @@ table {
 td {
     width: 60px;
     height: 60px;
+    background: #222;
 }
 
 #info-container {
