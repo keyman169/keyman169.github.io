@@ -2,18 +2,42 @@
 <html>
 <head>
   <meta charset="utf-8">
-  <title>EaTall</title>
+  <title>EatALL</title>
   <link rel="stylesheet" type="text/css" href="public/style/main.css">
 </head>
 <body>
-    <div id="info-container"><pre>Step:         Remaining:</pre></div>
-    <div id="game-container">
-        <table id="container"  border="1">
-        </table>
+    <div class="container">
+        <div class="heading">
+            <h1 class="title">EatAll</h1>
+            <div class="scores-container">
+                <div class="best-container">0</div>
+                <div class="step-container">0</div>
+            </div>
+        </div>
+        <div class="above-game">
+            <p class="game-intro">Try to <strong>EAT ALL</strong> other fishes!</p>
+            <div class="button-container">
+                <a class="restart button">New</a>
+                <a class="undo button">Undo</a>
+                <a class="share button">Share</a>
+            </div>
+        </div>
+        <div class="game-container">
+            <table class="grid-container" border="1">
+            </table>
+        </div>
+        <p class="game-explanation">
+            <strong class="important">How to play:</strong> Use your <strong>arrow keys</strong> to move the tiles.
+        </p>
+        <hr>
+        <p class="game-explanation">
+            Created by <a href="https://github.com/keyman169/" target="_blank">YanQ</a>  Based on <a href="https://github.com/gabrielecirulli/2048" target="_blank"><strong>2048</strong></a>
+        </p>
+        <p class="copyright">
+            All copyright reversed @2015
+        </p>
     </div>
 
-    <div id="operation-container"><pre>Restart      Rollback        Exit</pre></div>
-    <div id="message-container">Enjoy it</div>
     <script type="text/javascript" src="public/js/map.js"></script>
     <script type="text/javascript" src="public/js/grid.js"></script>
     <script type="text/javascript" src="public/js/tile.js"></script>

@@ -7,21 +7,17 @@ function Grid() {
 
 Grid.prototype.createTile = function (exist, i, j) {
     var tile = document.createElement("div");
-    var classes = ["tile", i, j];
-    tile.setAttribute("class", classes.join(" "));
-    tile.setAttribute("id", classes.join("-"));
-    tile.setAttribute("ondrop", "drop(event)");
-    tile.setAttribute("ondragover", "allowDrop(event)");
     if (exist > 1) {
-        var tileId = "img-" + i + "-" + j;
-        tile.innerHTML = "<img src='public/image/tile.png' width='60' height = '60' draggable='true' ondragstart='drag(event)' id=" + tileId + "\/>";
+        tile.setAttribute("class", "tile");
+    } else {
+        tile.setAttribute("class", "none");
     }
     return tile;
 };
 
 Grid.prototype.init = function (map) {
     var self = this;
-    var table = document.getElementById("container");
+    var table = document.querySelector(".grid-container");
     for (var j = 0; j < map.height; j++) {
         var tr = table.insertRow(j);
         for (var i = 0; i < map.width; i++) {
@@ -33,11 +29,6 @@ Grid.prototype.init = function (map) {
         }
     }
 };
-
-function allowDrop(ev) {
-    ev.preventDefault();
-}
-
 
 
 function getPosition(tileId) {
