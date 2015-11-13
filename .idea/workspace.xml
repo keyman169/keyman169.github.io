@@ -1,15 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="63b379c9-b591-4425-a9f5-3d7818024676" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/grid.js" afterPath="$PROJECT_DIR$/public/js/grid.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/style/main.css" afterPath="$PROJECT_DIR$/public/style/main.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="63b379c9-b591-4425-a9f5-3d7818024676" name="Default" comment="" />
     <ignored path="eatall.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="63b379c9-b591-4425-a9f5-3d7818024676" time="1447137517578" ignored="false" />
+    <file path="/Dummy.txt" changelist="63b379c9-b591-4425-a9f5-3d7818024676" time="1447408624817" ignored="false" />
     <file path="/index.html" changelist="63b379c9-b591-4425-a9f5-3d7818024676" time="1447319568696" ignored="false" />
     <file path="D:/SVN_ROOT/Code/etc/projects_NewFeature_20150216/Dev/src/DBPopulator/src/test/java/tools/InsertDummyDataTool.java" changelist="63b379c9-b591-4425-a9f5-3d7818024676" time="1431918544957" ignored="false" />
     <file path="/InsertDummyDataTool.java" changelist="63b379c9-b591-4425-a9f5-3d7818024676" time="1431917974609" ignored="false" />
@@ -17,18 +12,18 @@
     <file path="D:/SVN_ROOT/Code/etc/projects_NewFeature_20150216/Dev/src/DBPopulator/src/main/java/com/toshiba/medical/dbpopulator/persistence/MetadataDAO.java" changelist="63b379c9-b591-4425-a9f5-3d7818024676" time="1431918671750" ignored="false" />
     <file path="/grid.js" changelist="63b379c9-b591-4425-a9f5-3d7818024676" time="1447318606840" ignored="false" />
     <file path="D:/HG_ROOT/Vitality_WS/etc/projects/Dev/src/DoseMonitoring/webapp/scripts/app/DoseMonitoring/view/monitoring/BaseView.js" changelist="63b379c9-b591-4425-a9f5-3d7818024676" time="1446444933009" ignored="false" />
-    <file path="D:/HG_ROOT/Vitality_WS/etc/projects/Dev/src/DoseMonitoring/webapp/scripts/app/DoseMonitoring/view/VisualizeGraph/normal/Report.js" changelist="63b379c9-b591-4425-a9f5-3d7818024676" time="1446108670838" ignored="false" />
+    <file path="D:/HG_ROOT/Vitality_WS/etc/projects/Dev/src/DoseMonitoring/webapp/scripts/app/DoseMonitoring/view/VisualizeGraph/normal/Report.js" changelist="63b379c9-b591-4425-a9f5-3d7818024676" time="1447412048263" ignored="false" />
     <file path="/a.dummy" changelist="63b379c9-b591-4425-a9f5-3d7818024676" time="1446448787702" ignored="false" />
-    <file path="/Report.js" changelist="63b379c9-b591-4425-a9f5-3d7818024676" time="1447063252953" ignored="false" />
+    <file path="/Report.js" changelist="63b379c9-b591-4425-a9f5-3d7818024676" time="1447411288626" ignored="false" />
     <file path="D:/HG_ROOT/Vitality_WS/etc/projects/Dev/src/DoseMonitoring/webapp/scripts/app/DoseMonitoring/controller/DoseMain.js" changelist="63b379c9-b591-4425-a9f5-3d7818024676" time="1445913398536" ignored="false" />
     <file path="D:/HG_ROOT/Vitality_WS/etc/projects/Dev/src/DoseMonitoring/webapp/scripts/app/DoseMonitoring/global/cacheVisualizeGraph.js" changelist="63b379c9-b591-4425-a9f5-3d7818024676" time="1445914004691" ignored="false" />
-    <file path="D:/HG_ROOT/Vitality_WS/etc/projects/Dev/src/DoseMonitoring/webapp/nodejs/app/DoseMonitoring/Setting.js" changelist="63b379c9-b591-4425-a9f5-3d7818024676" time="1447137553011" ignored="false" />
-    <file path="D:/HG_ROOT/Vitality_WS/etc/projects/Dev/src/DoseMonitoring/webapp/nodejs/app/DoseMonitoring/Utility.js" changelist="63b379c9-b591-4425-a9f5-3d7818024676" time="1447137553011" ignored="false" />
+    <file path="D:/HG_ROOT/Vitality_WS/etc/projects/Dev/src/DoseMonitoring/webapp/nodejs/app/DoseMonitoring/Setting.js" changelist="63b379c9-b591-4425-a9f5-3d7818024676" time="1447410980032" ignored="false" />
+    <file path="D:/HG_ROOT/Vitality_WS/etc/projects/Dev/src/DoseMonitoring/webapp/nodejs/app/DoseMonitoring/Utility.js" changelist="63b379c9-b591-4425-a9f5-3d7818024676" time="1447410958955" ignored="false" />
     <file path="D:/HG_ROOT/Vitality_WS/etc/projects/Dev/src/DoseMonitoring/webapp/scripts/app/DoseMonitoring/view/VisualizeGraph/CenterPanel.js" changelist="63b379c9-b591-4425-a9f5-3d7818024676" time="1446431571303" ignored="false" />
     <file path="/BaseView.js" changelist="63b379c9-b591-4425-a9f5-3d7818024676" time="1446444710133" ignored="false" />
     <file path="D:/HG_ROOT/Vitality_WS/etc/projects/Dev/src/DBPopulator/src/test/java/tools/InsertDummyDataTool.java" changelist="63b379c9-b591-4425-a9f5-3d7818024676" time="1446453949756" ignored="false" />
     <file path="D:/HG_ROOT/Vitality_WS/etc/projects/Dev/src/DoseMonitoring/webapp/scripts/app/DoseMonitoring/view/monitoring/Timeline.js" changelist="63b379c9-b591-4425-a9f5-3d7818024676" time="1446449221379" ignored="false" />
-    <file path="D:/HG_ROOT/Vitality_WS/etc/projects/Dev/src/DoseMonitoring/webapp/scripts/app/DoseMonitoring/view/VisualizeGraph/timeline/Report.js" changelist="63b379c9-b591-4425-a9f5-3d7818024676" time="1446448361806" ignored="false" />
+    <file path="D:/HG_ROOT/Vitality_WS/etc/projects/Dev/src/DoseMonitoring/webapp/scripts/app/DoseMonitoring/view/VisualizeGraph/timeline/Report.js" changelist="63b379c9-b591-4425-a9f5-3d7818024676" time="1447411415727" ignored="false" />
     <file path="D:/HG_ROOT/Vitality_WS/etc/projects/Dev/src/DoseMonitoring/webapp/scripts/app/DoseMonitoring/view/VisualizeGraph/normal/Main.js" changelist="63b379c9-b591-4425-a9f5-3d7818024676" time="1446431571303" ignored="false" />
     <file path="D:/HG_ROOT/Vitality_WS/etc/projects/Dev/src/DoseMonitoring/webapp/scripts/app/DoseMonitoring/view/VisualizeGraph/timeline/Main.js" changelist="63b379c9-b591-4425-a9f5-3d7818024676" time="1446431571303" ignored="false" />
     <file path="/Timeline.js" changelist="63b379c9-b591-4425-a9f5-3d7818024676" time="1446449174445" ignored="false" />
@@ -44,6 +39,12 @@
     <file path="D:/HG_ROOT/Vitality_WS/etc/projects/Dev/src/DoseMonitoring/webapp/scripts/app/DoseMonitoring/view/outlier/GuidelineReferenceView.js" changelist="63b379c9-b591-4425-a9f5-3d7818024676" time="1447055362497" ignored="false" />
     <file path="D:/HG_ROOT/Vitality_WS/etc/projects/Dev/src/DoseMonitoring/webapp/scripts/app/DoseMonitoring/view/MonitoringReport/Report.js" changelist="63b379c9-b591-4425-a9f5-3d7818024676" time="1447063396583" ignored="false" />
     <file path="/main.css" changelist="63b379c9-b591-4425-a9f5-3d7818024676" time="1447319892415" ignored="false" />
+    <file path="D:/HG_ROOT/Vitality_WS/etc/projects/Dev/src/DoseMonitoring/webapp/scripts/app/DoseMonitoring/other/StringSettingByJP.js" changelist="63b379c9-b591-4425-a9f5-3d7818024676" time="1447408846738" ignored="false" />
+    <file path="D:/HG_ROOT/Vitality_WS/etc/projects/Dev/src/DoseMonitoring/webapp/scripts/app/DoseMonitoring/other/StringSettingByNL.js" changelist="63b379c9-b591-4425-a9f5-3d7818024676" time="1447408846738" ignored="false" />
+    <file path="D:/HG_ROOT/Vitality_WS/etc/projects/Dev/src/DoseMonitoring/webapp/scripts/app/DoseMonitoring/other/StringSettingByFR.js" changelist="63b379c9-b591-4425-a9f5-3d7818024676" time="1447408846738" ignored="false" />
+    <file path="D:/HG_ROOT/Vitality_WS/etc/projects/Dev/src/DoseMonitoring/webapp/scripts/app/DoseMonitoring/other/StringSettingByEN.js" changelist="63b379c9-b591-4425-a9f5-3d7818024676" time="1447408846738" ignored="false" />
+    <file path="D:/HG_ROOT/Vitality_WS/etc/projects/Dev/src/DoseMonitoring/webapp/scripts/app/DoseMonitoring/other/StringSettingByPT.js" changelist="63b379c9-b591-4425-a9f5-3d7818024676" time="1447408846739" ignored="false" />
+    <file path="D:/HG_ROOT/Vitality_WS/etc/projects/Dev/src/DoseMonitoring/webapp/scripts/app/DoseMonitoring/other/StringSettingByES.js" changelist="63b379c9-b591-4425-a9f5-3d7818024676" time="1447408846739" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +59,6 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
-    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -95,6 +95,7 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </breakpoint_any>
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -107,7 +108,7 @@
       <file leaf-file-name="main.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/public/style/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="89" column="17" selection-start="1654" selection-end="1654" vertical-scroll-proportion="0.6015453">
+            <state line="89" column="17" selection-start="1654" selection-end="1654" vertical-scroll-proportion="0.020971302">
               <folding />
             </state>
           </provider>
@@ -125,7 +126,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="45" selection-start="651" selection-end="651" vertical-scroll-proportion="-12.892858">
+            <state line="19" column="45" selection-start="651" selection-end="651" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -235,6 +236,8 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -309,8 +312,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -328,8 +329,8 @@
     <property name="FullScreen" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -408,6 +409,25 @@
       <option name="trusted" value="true" />
       <method />
     </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="$PROJECT_DIR$">
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="GLUE" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -436,25 +456,6 @@
       <listeners />
       <method />
     </configuration>
-    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="GLUE" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="$PROJECT_DIR$">
-      <method />
-    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" />
@@ -468,13 +469,6 @@
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="" />
       <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavascriptDebugSession" factoryName="Local" singleton="true">
-      <JSDebuggerConfigurationSettings>
-        <option name="engineId" />
-        <option name="fileUrl" />
-      </JSDebuggerConfigurationSettings>
       <method />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
@@ -496,6 +490,29 @@
       </option>
       <envs />
       <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugSession" factoryName="Local" singleton="true">
+      <JSDebuggerConfigurationSettings>
+        <option name="engineId" value="embedded" />
+        <option name="fileUrl" />
+      </JSDebuggerConfigurationSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
       <method />
     </configuration>
     <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
@@ -530,22 +547,6 @@
       <option name="screenWidth" value="0" />
       <option name="url" value="http://" />
       <option name="usbDebugPort" value="7936" />
-      <method />
-    </configuration>
-    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
-      <module name="" />
-      <option name="ACTIVITY_CLASS" value="" />
-      <option name="MODE" value="default_activity" />
-      <option name="DEPLOY" value="true" />
-      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
-      <option name="PREFERRED_AVD" value="" />
-      <option name="USE_COMMAND_LINE" value="true" />
-      <option name="COMMAND_LINE" value="" />
-      <option name="WIPE_USER_DATA" value="false" />
-      <option name="DISABLE_BOOT_ANIMATION" value="false" />
-      <option name="NETWORK_SPEED" value="full" />
-      <option name="NETWORK_LATENCY" value="none" />
-      <option name="CLEAR_LOGCAT" value="false" />
       <method />
     </configuration>
     <configuration default="false" name="app.js" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="app.js" working-dir="$PROJECT_DIR$">
@@ -586,8 +587,8 @@
     <option name="totallyTimeSpent" value="38000000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-4" y="-4" width="1866" height="1088" extended-state="6" />
-    <editor active="false" />
+    <frame x="-4" y="-4" width="1866" height="1088" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -606,7 +607,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15431416" sideWeight="0.67197454" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15431416" sideWeight="0.67197454" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32908705" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="REST Client" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.35220125" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
@@ -749,23 +750,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/public/js/map.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="54" selection-start="359" selection-end="359" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="15" column="54" selection-start="359" selection-end="359" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/js/tile.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="67" selection-start="250" selection-end="250" vertical-scroll-proportion="0.1401766">
-          <folding />
-        </state>
+        <state line="10" column="67" selection-start="250" selection-end="250" vertical-scroll-proportion="0.1401766" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/js/game.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/js/grid.js">
@@ -777,14 +772,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="45" selection-start="651" selection-end="651" vertical-scroll-proportion="-12.892858">
+        <state line="19" column="45" selection-start="651" selection-end="651" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/style/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="89" column="17" selection-start="1654" selection-end="1654" vertical-scroll-proportion="0.6015453">
+        <state line="89" column="17" selection-start="1654" selection-end="1654" vertical-scroll-proportion="0.020971302">
           <folding />
         </state>
       </provider>
